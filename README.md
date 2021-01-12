@@ -1,2 +1,2 @@
-# data-science
-Compilation of Data Science projects
+# stock-market-prediction
+Stock Market Prediction using the Yahoo Finance dataset
