@@ -1,2 +1,2 @@
 # stock-market-prediction
-Stock Market Prediction using the Yahoo Finance dataset
+Prediction of Amazon stocks using SVM RBF Kernel and SV Linear Regression
